@@ -1,4 +1,3 @@
--- Protected by Mnx Obfuscator | Public Enemy
 local gchsu_vH95pVlSDJj=#"kLb3R2YD"
 local r49WL3ZPrZrsmg=757
 local tZvZYoQVYqAgbR=type(nil)
@@ -109,5 +108,5 @@ local dALMiBMenBcfqPhzqa,yFgfeEvigrFh5=loadstring(r1XKHzL62ww)
 if dALMiBMenBcfqPhzqa then
   dALMiBMenBcfqPhzqa()
 else
-  error("Mnx | Public Enemy : "..tostring(yFgfeEvigrFh5))
+  error("SXNT | Protected : "..tostring(yFgfeEvigrFh5))
 end
